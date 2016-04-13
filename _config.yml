@@ -1,14 +1,25 @@
-layout_spectrum: 0.263335
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3604936
 color:
   saturation: 0.6928649
   brandStrength: 0.1645647
   lightness: 0.806383
-  rhythmicContrast: 0.9906242
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-typography_spectrum: 0.3604936
+    - '#6E5C4B'
+    - '#EBDFCF'
+    - '#CEBDA4'
+    - '#729B8D'
+  rhythmicContrast: 0.9906242
+layout_spectrum: 0.263335
 name: CAF
