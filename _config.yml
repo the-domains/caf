@@ -1,0 +1,14 @@
+layout_spectrum: 0.263335
+color:
+  saturation: 0.6928649
+  brandStrength: 0.1645647
+  lightness: 0.806383
+  rhythmicContrast: 0.9906242
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+typography_spectrum: 0.3604936
+name: CAF
